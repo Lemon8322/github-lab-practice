@@ -1,1 +1,1 @@
-This is my first GitHub project.
+This is Student A's Project.
