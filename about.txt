@@ -1,4 +1,5 @@
 My name is John lennon Resueño.
 I am an IT student.
-I am laerning Git and GitHub.
+I am learning Git and GitHub.
 
+I love learning Git.
