@@ -1,0 +1,5 @@
+My name is John lennon Resueño.
+I am an IT student.
+I am learning Git and GitHub.
+
+I love learning Git.
